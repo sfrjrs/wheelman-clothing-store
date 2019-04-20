@@ -3,7 +3,7 @@ contentType: about
 path: /about
 title: How We Got Here
 ---
-![wheelman clothing logo](/files/wheelman_optimized.jpg)
+![wheelman logo](/files/wheelman_opt_web.jpg)
 
 Wheelman Clothing Co. was a dream of creating custom t-shirts and sticker for the love of wearing our own designs and making our own stickers to slap on our snowboards, racing helmets and wherever else we wanted to see our brand.
 
