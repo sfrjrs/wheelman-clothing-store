@@ -14,5 +14,5 @@ Today we've taken that passion and are excited to create affordable custom t-shi
     data-item-price="20.00"
     data-item-url="https://wheelman-clothing-store.netlify.com/tshirts"
     data-item-description="This is a quality t-shirt with the Wheelman Clothing Co. logo.">
-    Buy bacon
+    Buy Wheelman Logo Tee
 </button>
