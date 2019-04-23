@@ -29,11 +29,6 @@ const TemplateWrapper = ({ children, data }) => {
               <img class="img-fluid" src={logo} alt={data.site.siteMetadata.title} />
             </Link>
             <ul className='nav navbar-nav'>
-              {user && (
-                <li className='nav-item'>
-                  <a href='/admin' className='nav-link'>Admin</a>
-                </li>
-              )}
               <li className='nav-item'>
                 <Link to='/about' className='nav-link'>About</Link>
               </li>
@@ -43,6 +38,11 @@ const TemplateWrapper = ({ children, data }) => {
               <li className='nav-item'>
                 <Link to='#' className='nav-link snipcart-checkout'>View Cart</Link>
               </li>
+              {user && (
+                <li className='nav-item'>
+                  <a href='/admin' className='nav-link'>Admin</a>
+                </li>
+              )}
             </ul>
           </Container>
         </div>
