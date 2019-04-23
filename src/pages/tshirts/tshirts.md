@@ -1,7 +1,7 @@
 ---
 contentType: tshirts
 path: /tshirts
-title: T-Shirts With Style
+title: T-Shirts For Gear Heads
 ---
 Wheelman Clothing Co. was a dream of creating custom t-shirts and sticker for the love of wearing our own designs and making our own stickers to slap on our snowboards, racing helmets and wherever else we wanted to see our brand.
 
